@@ -30,14 +30,14 @@ import datetime
 import aiohttp
 
 bot = Client("bot",
-             bot_token= "", 
+             bot_token= "7417717621:AAFibMWs3uejBzUPJrljDww0zPq7NyQQo1M", 
              #bot_token= os.environ.get("BOT_TOKEN"),
-             api_id= ,
-             api_hash= "")
-auth_users = []
+             api_id= 20047839,
+             api_hash= "e635f85a4dae812a26c450c0d41276b0")
+auth_users = [5498931783]
 #romeo  
 
-owner_id = 
+owner_id = 5498931783
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
@@ -56,11 +56,11 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="👨🏻‍💻 Devloper",
-                url="https://t.me/EX_DOLPHIN",
+                url="https://t.me/vijaysahu_2",
             ),
             InlineKeyboardButton(
                 text="❣️ GITHUB",
-                url="https://t.me/EX_DOLPHIN",
+                url="https://t.me/vijaysahu_2",
             ),
         ],
         [
