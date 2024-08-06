@@ -34,10 +34,10 @@ bot = Client("bot",
              #bot_token= os.environ.get("BOT_TOKEN"),
              api_id= 20047839,
              api_hash= "e635f85a4dae812a26c450c0d41276b0")
-auth_users = [5498931783]
+auth_users = [6332321765]
 #romeo  
 
-owner_id = 5498931783
+owner_id = 6332321765
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
